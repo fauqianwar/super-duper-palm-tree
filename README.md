@@ -1,2 +1,2 @@
 # super-duper-palm-tree
-my first project
+my repository
