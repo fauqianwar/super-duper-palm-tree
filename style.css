@@ -1,0 +1,52 @@
+
+
+.content {
+background-color: bisque;
+color: black;
+display: flex;
+flex-direction: column;
+text-align: justify;
+margin-left: 5%;
+margin-right: 5%;
+flex-wrap: wrap;
+align-content: center;
+justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+    display: inline;
+    position: relative;
+    left: 35%;
+}
+
+.input-form{
+position: relative;
+left: 65%;
+bottom: 24px;
+}
+
+.attraction{
+    
+    margin: 10%;
+    padding-bottom: 20%;
+}
+
+.how-to-play {
+    
+    margin: 10%;
+}
+
+.item{
+    height: 100px;
+}
+
+.introduction{
+    
+    margin: 10%;
+}
+
+.header{
+    
+}
