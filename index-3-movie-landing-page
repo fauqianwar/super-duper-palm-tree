@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style-2.css">
+</head>
+    <body>
+        <h1>NETSTREAM</H1>
+        <h2>A new platform for watching movies <span>online for free</span></h2>
+       <h3>start by login <a href="#">here</a></h3>
+        <p>watch films, animes, series everywhere anywhere</p>
+</body>
+</html>
