@@ -11,6 +11,8 @@ margin-right: 5%;
 flex-wrap: wrap;
 align-content: center;
 justify-content: center;
+margin-top: 3%;
+font-size: 20px;
 
 }
 
@@ -22,9 +24,30 @@ h1{
 }
 
 .input-form{
+    display: flex;
+    
 position: relative;
-left: 65%;
+left: 63%;
 bottom: 24px;
+height: 25px;
+
+
+}
+
+    
+    
+
+
+.p-b {
+    position: relative;
+    left: 65%;
+    margin-top: 5px;
+}
+
+button {
+    position: relative;
+    height: 25px;
+    width: 80px;
 }
 
 .attraction{
@@ -40,13 +63,11 @@ bottom: 24px;
 
 .item{
     height: 100px;
+    position: relative;
+    bottom: 50px;
 }
 
 .introduction{
     
     margin: 10%;
-}
-
-.header{
-    
 }
