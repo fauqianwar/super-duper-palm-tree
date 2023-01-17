@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+
+h1{
+    color: red;
+font-size: 120px;
+font-family: sans-serif;
+}
+
+h2{
+    font-size: 90px;
+
+}
+
+h3{
+    font-size: 65px;
+    color: red;
+
+}
+
+p{
+    font-size: 20px;
+    background-color: black;
+    color: whitesmoke;
+
+}
