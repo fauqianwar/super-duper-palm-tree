@@ -9,11 +9,15 @@
     <?php
     echo "<h1>mobile legends review</h1>";
     ?>
+
     <div class="input-form">
     <input placeholder="username">
     <input placeholder="password" type="password">
+
     <button>Sign in</buttton>
-</div>
+    
+    </div>
+    <p class="p-b">don't have account yet? <a href="#">sign in here</a></p>
 </div>
     <div class="content">
     <div class="introduction item">
@@ -23,7 +27,7 @@
              Players compete in 5v5 battles, controlling a hero with unique abilities to defeat the opposing team 
              and destroy their base. The game features a variety of game modes, a large roster of playable heroes, and regular updates and events. 
              It has become one of the most popular mobile games in the world, with a huge player base and competitive scene
-        </p>  
+        </p>       
 </div>
 <div class="how-to-play item">
 <h2>how to play</h2>
