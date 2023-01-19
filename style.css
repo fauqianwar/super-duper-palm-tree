@@ -1,7 +1,5 @@
-
-
 .content {
-background-color: bisque;
+background: linear-gradient(45deg, yellow, lightGreen , deepskyBlue);
 color: black;
 display: flex;
 flex-direction: column;
@@ -12,7 +10,7 @@ flex-wrap: wrap;
 align-content: center;
 justify-content: center;
 margin-top: 3%;
-font-size: 20px;
+font-size: auto;
 
 }
 
@@ -20,7 +18,8 @@ h1{
     text-align: center;
     display: inline;
     position: relative;
-    left: 35%;
+    left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .input-form{
@@ -30,11 +29,11 @@ position: relative;
 left: 63%;
 bottom: 24px;
 height: 25px;
-
-
 }
 
-    
+ img {
+    width: 100%;
+ }   
     
 
 
@@ -52,22 +51,29 @@ button {
 
 .attraction{
     
-    margin: 10%;
-    padding-bottom: 20%;
+    margin: 5%;
+    padding-bottom: 5%;
 }
 
 .how-to-play {
     
-    margin: 10%;
+    margin: 5%;
 }
 
 .item{
-    height: 100px;
+    height: auto;
     position: relative;
-    bottom: 50px;
+    bottom: 5px;
+    font-size: larger;
+    width: 80%;
 }
 
 .introduction{
     
-    margin: 10%;
+    margin: 5%;
+}
+
+.heading{
+    font-family: sans-serif;
+    
 }
